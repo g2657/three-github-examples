@@ -32,6 +32,24 @@
         const githubExamples = window.THREE_CESIUM_NAVIGATION.find(i => i.name === 'Github');
         if (githubExamples) githubExamples.examples = window.GITHUB_EXAMPLES;
 
+        /* 语言切换 */
+        if (localStorage.getItem('langEn') === 'true') {
+
+            window.THREE_CESIUM_NAVIGATION.forEach(item => {
+
+                item.label = item.label_en || item.label
+                item.examples?.forEach(example => {
+
+                    example.name = example.name_en || example.name
+                    example.group = example.group_en || example.group
+                    example.children?.forEach(child => (child.name = child.name_en || child.name))
+
+                })
+
+            })
+
+        }
+
     </script>
 </body>
 
