@@ -305,6 +305,15 @@ export default [
                 image: HOST + 'images/Rose_flower.webp',
             },
             {
+                id: 'dtilesConverter',
+                name: '3dtiles Converter',
+                name_en: '3dtiles Converter',
+                author: 'AUTO',
+                openUrl: 'https://github.com/fanvanzh/3dtiles',
+                githubUrl: 'https://github.com/fanvanzh/3dtiles',
+                image: HOST + 'images/3dtiles%20Converter.webp',
+            },
+            {
                 id: 'mma-lab',
                 name: 'mma-lab',
                 name_en: 'mma-lab',
