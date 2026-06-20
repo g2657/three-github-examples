@@ -377,6 +377,15 @@ export default [
                 image: HOST + 'images/openThree.webp',
             },
             {
+                id: 'rubiks-rubrics',
+                name: 'rubiks-rubrics',
+                name_en: 'rubiks-rubrics',
+                author: 'AUTO',
+                openUrl: 'https://leereilly.net/rubiks-rubrics/',
+                githubUrl: 'https://github.com/leereilly/rubiks-rubrics',
+                image: HOST + 'images/rubiks-rubrics.webp',
+            },
+            {
                 id: 'ecctrl',
                 name: 'ecctrl',
                 name_en: 'ecctrl',
