@@ -387,7 +387,7 @@ export default [
             },
             {
                 id: '3d_tools',
-                name: '3d工具集',
+                name: '3D相关工具集',
                 name_en: '3d_tools',
                 author: 'AUTO',
                 openUrl: 'https://z2586300277.github.io/3d_tools/',
