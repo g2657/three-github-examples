@@ -26,12 +26,19 @@ export default [
                 codeUrl: HOST + 'three/shuiliu_kuan.js',
                 image: HOST + 'three/shuiliu_kuan.webp',
             },
-            {
+{
                 id: 'octree',
                 name: '八叉树',
                 name_en: 'octree',
                 codeUrl: HOST + 'three/octree.js',
                 image: HOST + 'three/octree.webp',
+            },
+            {
+                id: 'rainday',
+                name: '雷雨',
+                name_en: 'rainday',
+                codeUrl: HOST + 'three/rainday.js',
+                image: HOST + 'three/rainday.webp',
             },
         ]
     }
