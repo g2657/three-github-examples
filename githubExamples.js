@@ -727,6 +727,42 @@ export default [
                 githubUrl: 'https://github.com/eliautobot/my-virtual-world',
                 image: HOST + 'images/my-virtual-world.webp',
             },
+            {
+                id: 'fmhy',
+                name: '资源库',
+                name_en: 'fmhy',
+                author: 'AUTO',
+                openUrl: 'https://fmhy.net/',
+                githubUrl: 'https://github.com/fmhy/edit',
+                image: HOST + 'images/fmhy.webp',
+            },
+            {
+                id: 'ApexForge',
+                name: 'AI 建模',
+                name_en: 'ApexForge',
+                author: 'AUTO',
+                openUrl: 'http://apexforge.turntip.cn/',
+                githubUrl: 'https://github.com/MrXujiang/ApexForge',
+                image: HOST + 'images/ApexForge.webp',
+            },
+            {
+                id: 'Three-Object-Sculptor',
+                name: 'codexthreejs 插件',
+                name_en: 'Three-Object-Sculptor',
+                author: 'AUTO',
+                openUrl: 'https://3dship.harrysoftware.com/',
+                githubUrl: 'https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin',
+                image: HOST + 'images/Three.js-Object-Sculptor-Codex-Plugin.webp',
+            },
+            {
+                id: 'lowpoly-tree-generator',
+                name: 'lowpoly-tree-generator',
+                name_en: 'lowpoly-tree-generator',
+                author: 'AUTO',
+                openUrl: 'https://rand.monster/editor/tree',
+                githubUrl: 'https://github.com/rand-monster/lowpoly-tree-generator',
+                image: HOST + 'images/lowpoly-tree-generator.webp',
+            },
         ]
     }
 ]
