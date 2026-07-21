@@ -799,7 +799,7 @@ export default [
                 githubUrl: 'https://github.com/MisterPrada/singularity',
                 image: HOST + 'images/MisterPrada.webp',
             },
-            {
+{
                 id: 'three-auto',
                 name: 'three-auto',
                 name_en: 'three-auto',
@@ -808,7 +808,7 @@ export default [
                 githubUrl: 'https://github.com/flowers-10/three-auto',
                 image: HOST + 'images/three-auto.webp',
             },
-            {
+{
                 id: 'KallkaGoMy_website',
                 name: 'KallkaGoMy_website',
                 name_en: 'KallkaGoMy_website',
@@ -816,6 +816,33 @@ export default [
                 openUrl: 'https://my-website-kallka.vercel.app/#work',
                 githubUrl: 'https://github.com/KallkaGo/My_website',
                 image: HOST + 'images/KallkaGoMy_website.webp',
+            },
+            {
+                id: 'raycast-vehicle',
+                name: 'raycast-vehicle',
+                name_en: 'raycast-vehicle',
+                author: 'AUTO',
+                openUrl: 'https://raycast-rc-car.netlify.app/',
+                githubUrl: 'https://github.com/icurtis1/raycast-vehicle',
+                image: HOST + 'images/raycast-vehicle.webp',
+            },
+            {
+                id: 'ThreejsGNM',
+                name: '头编辑器',
+                name_en: 'ThreejsGNM',
+                author: 'AUTO',
+                openUrl: 'https://threejs-gnm.vercel.app/',
+                githubUrl: 'https://github.com/ademola-lou/ThreejsGNM',
+                image: HOST + 'images/ThreejsGNM.webp',
+            },
+            {
+                id: 'GNM-Studio',
+                name: '人头编辑器',
+                name_en: 'GNM-Studio',
+                author: 'AUTO',
+                openUrl: 'https://drbaph.is-a.dev/GNM-Studio/',
+                githubUrl: 'https://github.com/Saganaki22/GNM-Studio',
+                image: HOST + 'images/GNM-Studio.webp',
             },
         ]
     }
