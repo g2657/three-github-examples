@@ -82,6 +82,13 @@ export default [
                 htmlUrl: HOST + 'three/threesd.html',
                 image: HOST + 'three/threesd.webp',
             },
+{
+                id: 'VerityEngine',
+                name: 'Verity Engine',
+                name_en: 'Verity Engine',
+                htmlUrl: HOST + 'three/VerityEngine.html',
+                image: HOST + 'three/VerityEngine.webp',
+            },
         ]
     }
 ]
