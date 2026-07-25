@@ -1,11 +1,11 @@
-const HOST = (window.origin + window.location.pathname).replace(/\/index.html$/, '/')
+const HOST = new URL('.', import.meta.url).href
 
 export default [
     {
         pid: 'RecentlySubmitted',
         name: '最近提交',
         name_en: 'Recently Submitted',
-        order: 0,
+        order: 1000,
         children: [
 {
                 id: 'LearningCell',
@@ -879,6 +879,33 @@ export default [
                 openUrl: 'https://antics.gg/world/little-taipei',
                 githubUrl: 'https://github.com/craftmygame/little-city',
                 image: HOST + 'images/little-city.webp',
+            },
+            {
+                id: 'waterProThree',
+                name: 'waterProThree',
+                name_en: 'waterProThree',
+                author: 'AUTO',
+                openUrl: 'https://g2657.github.io/examples-server/waterPro/',
+                githubUrl: 'https://github.com/achrefelouafi/WaterThreeJS',
+                image: HOST + 'images/waterProThree.webp',
+            },
+            {
+                id: 'ProceduralTerrains',
+                name: '地形生成',
+                name_en: 'ProceduralTerrains',
+                author: 'AUTO',
+                openUrl: 'https://terrains.zyfod.dev/',
+                githubUrl: 'https://github.com/ZyFou/ProceduralTerrains',
+                image: HOST + 'images/ProceduralTerrains.webp',
+            },
+            {
+                id: 'three-low-poly',
+                name: 'three-low-poly',
+                name_en: 'three-low-poly',
+                author: 'AUTO',
+                openUrl: 'https://jasonsturges.com/three-low-poly/',
+                githubUrl: 'https://github.com/jasonsturges/three-low-poly',
+                image: HOST + 'images/three-low-poly.webp',
             },
         ]
     }
