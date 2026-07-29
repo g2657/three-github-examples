@@ -925,6 +925,33 @@ export default [
                 githubUrl: 'https://github.com/hyeonsangjeon/Repolis',
                 image: HOST + 'images/Repolis.webp',
             },
+            {
+                id: 'TheLongSilence',
+                name: 'TheLongSilence',
+                name_en: 'TheLongSilence',
+                author: 'AUTO',
+                openUrl: 'https://www.3dgenstudio.com/',
+                githubUrl: 'https://github.com/achimala/TheLongSilence',
+                image: HOST + 'images/TheLongSilence.webp',
+            },
+            {
+                id: 'vinyl',
+                name: 'vinyl',
+                name_en: 'vinyl',
+                author: 'AUTO',
+                openUrl: 'https://vinyl-rho-peach.vercel.app/',
+                githubUrl: 'https://github.com/thebuggeddev/vinyl',
+                image: HOST + 'images/vinyl.webp',
+            },
+            {
+                id: 'meteor3D',
+                name: '低代码 3D 场景可视化平台',
+                name_en: 'meteor3D',
+                author: 'AUTO',
+                openUrl: 'https://www.meteor3d.cn/',
+                githubUrl: 'https://github.com/nikonikoCW/Meteor3DEditor',
+                image: HOST + 'images/meteor3D.webp',
+            },
         ]
     }
 ]
