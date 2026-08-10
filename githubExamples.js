@@ -1042,6 +1042,15 @@ export default [
                 githubUrl: 'https://github.com/PauliusOS/pallet-town-3d',
                 image: HOST + 'images/pallet-town-3d.webp',
             },
+            {
+                id: 'footballThree',
+                name: 'footballThree',
+                name_en: 'footballThree',
+                author: 'AUTO',
+                openUrl: 'https://football-ashy-rho.vercel.app/',
+                githubUrl: 'https://github.com/thebuggeddev/football',
+                image: HOST + 'images/footballThree.webp',
+            },
         ]
     }
 ]
