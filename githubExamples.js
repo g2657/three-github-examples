@@ -1051,6 +1051,15 @@ export default [
                 githubUrl: 'https://github.com/thebuggeddev/football',
                 image: HOST + 'images/footballThree.webp',
             },
+            {
+                id: '3d-life-sim',
+                name: '3d-life-sim',
+                name_en: '3d-life-sim',
+                author: 'AUTO',
+                openUrl: 'https://3d-life-sim.pages.dev/',
+                githubUrl: 'https://github.com/kajukabla/3d-life-sim',
+                image: HOST + 'images/3d-life-sim.webp',
+            },
         ]
     }
 ]
