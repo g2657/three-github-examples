@@ -340,7 +340,7 @@ export default [
                 githubUrl: 'https://github.com/ArunSahadeo/TopoExporter',
                 image: HOST + 'images/topoexport.webp',
             },
-            {
+{
                 id: 'yyhg',
                 name: '北京优悦幻光科技',
                 name_en: 'yyhg',
@@ -1006,7 +1006,7 @@ export default [
                 githubUrl: 'https://github.com/hyeonsangjeon/threejs-sculpt-dna',
                 image: HOST + 'images/threejs-sculpt-dna.webp',
             },
-            {
+{
                 id: 'anatomy-atelier',
                 name: 'anatomy-atelier',
                 name_en: 'anatomy-atelier',
@@ -1024,7 +1024,7 @@ export default [
                 githubUrl: 'https://github.com/MengTo/complete-shelf',
                 image: HOST + 'images/complete-shelf.webp',
             },
-            {
+{
                 id: 'jungle-trail',
                 name: 'jungle-trail',
                 name_en: 'jungle-trail',
@@ -1033,7 +1033,7 @@ export default [
                 githubUrl: 'https://github.com/StarKnightt/jungle-trail',
                 image: HOST + 'images/jungle-trail.webp',
             },
-            {
+{
                 id: 'pallet-town-3d',
                 name: 'pallet-town-3d',
                 name_en: 'pallet-town-3d',
@@ -1042,7 +1042,7 @@ export default [
                 githubUrl: 'https://github.com/PauliusOS/pallet-town-3d',
                 image: HOST + 'images/pallet-town-3d.webp',
             },
-            {
+{
                 id: 'footballThree',
                 name: 'footballThree',
                 name_en: 'footballThree',
@@ -1051,7 +1051,7 @@ export default [
                 githubUrl: 'https://github.com/thebuggeddev/football',
                 image: HOST + 'images/footballThree.webp',
             },
-            {
+{
                 id: '3d-life-sim',
                 name: '3d-life-sim',
                 name_en: '3d-life-sim',
@@ -1059,6 +1059,24 @@ export default [
                 openUrl: 'https://3d-life-sim.pages.dev/',
                 githubUrl: 'https://github.com/kajukabla/3d-life-sim',
                 image: HOST + 'images/3d-life-sim.webp',
+            },
+            {
+                id: 'moon-rover',
+                name: 'moon-rover',
+                name_en: 'moon-rover',
+                author: 'AUTO',
+                openUrl: 'https://winchxyz.github.io/moon-rover/',
+                githubUrl: 'https://github.com/winchxyz/moon-rover',
+                image: HOST + 'images/moon-rover.webp',
+            },
+            {
+                id: 'prehistoric-animal-museum',
+                name: 'prehistoric-animal-museum',
+                name_en: 'prehistoric-animal-museum',
+                author: 'AUTO',
+                openUrl: 'https://leon-made-this.work/museum',
+                githubUrl: 'https://github.com/s010s/prehistoric-animal-museum',
+                image: HOST + 'images/prehistoric-animal-museum.jpg',
             },
         ]
     }
