@@ -1078,6 +1078,33 @@ export default [
                 githubUrl: 'https://github.com/s010s/prehistoric-animal-museum',
                 image: HOST + 'images/prehistoric-animal-museum.jpg',
             },
+            {
+                id: 'SamuraiThirdPersonTemplateThreeJS',
+                name: 'SamuraiThirdPersonTemplateThreeJS',
+                name_en: 'SamuraiThirdPersonTemplateThreeJS',
+                author: 'AUTO',
+                openUrl: 'https://g2657.github.io/SamuraiThirdPersonTemplateThreeJS/',
+                githubUrl: 'https://github.com/achrefelouafi/SamuraiThirdPersonTemplateThreeJS',
+                image: HOST + 'images/SamuraiThirdPersonTemplateThreeJS.webp',
+            },
+            {
+                id: 'AvatarCastingAbilitiesThreeJS',
+                name: 'AvatarCastingAbilitiesThreeJS',
+                name_en: 'AvatarCastingAbilitiesThreeJS',
+                author: 'AUTO',
+                openUrl: 'https://g2657.github.io/AvatarCastingAbilitiesThreeJS/',
+                githubUrl: 'https://github.com/achrefelouafi/AvatarCastingAbilitiesThreeJS',
+                image: HOST + 'images/AvatarCastingAbilitiesThreeJS.webp',
+            },
+            {
+                id: 'LinearAbiltyCastingThreeJS',
+                name: 'LinearAbiltyCastingThreeJS',
+                name_en: 'LinearAbiltyCastingThreeJS',
+                author: 'AUTO',
+                openUrl: 'https://g2657.github.io/LinearAbiltyCastingThreeJS/',
+                githubUrl: 'https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS',
+                image: HOST + 'images/LinearAbiltyCastingThreeJS.webp',
+            },
         ]
     }
 ]
