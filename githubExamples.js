@@ -1141,6 +1141,24 @@ export default [
                 githubUrl: 'https://github.com/achrefelouafi/GeometryPainterThreeJS',
                 image: HOST + 'images/GeometryPainterThreeJS.webp',
             },
+            {
+                id: 'threeui',
+                name: 'threeui',
+                name_en: 'threeui',
+                author: 'AUTO',
+                openUrl: 'https://threeui.com/',
+                githubUrl: 'https://github.com/MengTo/threeui',
+                image: HOST + 'images/threeui.webp',
+            },
+            {
+                id: 'Claude-of-Tanks',
+                name: 'Claude-of-Tanks',
+                name_en: 'Claude-of-Tanks',
+                author: 'AUTO',
+                openUrl: 'https://cot.kevinliu.studio/',
+                githubUrl: 'https://github.com/Kevin-Liu-01/Claude-of-Tanks',
+                image: HOST + 'images/Claude-of-Tanks.webp',
+            },
         ]
     }
 ]
