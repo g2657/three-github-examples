@@ -943,7 +943,7 @@ export default [
                 githubUrl: 'https://github.com/thebuggeddev/vinyl',
                 image: HOST + 'images/vinyl.webp',
             },
-            {
+{
                 id: 'meteor3D',
                 name: '低代码 3D 场景可视化平台',
                 name_en: 'meteor3D',
@@ -961,7 +961,7 @@ export default [
                 githubUrl: 'https://github.com/achrefelouafi/GrassSystemThreeJS',
                 image: HOST + 'images/GrassSystemThreeJS.webp',
             },
-            {
+{
                 id: 'SnowSystemThreeJS',
                 name: 'SnowSystemThreeJS',
                 name_en: 'SnowSystemThreeJS',
@@ -1060,7 +1060,7 @@ export default [
                 githubUrl: 'https://github.com/kajukabla/3d-life-sim',
                 image: HOST + 'images/3d-life-sim.webp',
             },
-            {
+{
                 id: 'moon-rover',
                 name: 'moon-rover',
                 name_en: 'moon-rover',
@@ -1087,7 +1087,7 @@ export default [
                 githubUrl: 'https://github.com/achrefelouafi/SamuraiThirdPersonTemplateThreeJS',
                 image: HOST + 'images/SamuraiThirdPersonTemplateThreeJS.webp',
             },
-            {
+{
                 id: 'AvatarCastingAbilitiesThreeJS',
                 name: 'AvatarCastingAbilitiesThreeJS',
                 name_en: 'AvatarCastingAbilitiesThreeJS',
@@ -1105,7 +1105,7 @@ export default [
                 githubUrl: 'https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS',
                 image: HOST + 'images/LinearAbiltyCastingThreeJS.webp',
             },
-            {
+{
                 id: 'kindergrimm',
                 name: 'kindergrimm',
                 name_en: 'kindergrimm',
@@ -1114,7 +1114,7 @@ export default [
                 githubUrl: 'https://github.com/albertobeiz/kindergrimm',
                 image: HOST + 'images/kindergrimm.webp',
             },
-            {
+{
                 id: 'sewage-treatment-plant',
                 name: '污水处理厂',
                 name_en: 'sewage-treatment-plant',
@@ -1123,7 +1123,7 @@ export default [
                 githubUrl: 'https://github.com/cfy1126/sewage-treatment-plant',
                 image: HOST + 'images/sewage-treatment-plant.webp',
             },
-            {
+{
                 id: 'achrefelouafi',
                 name: 'achrefelouafi',
                 name_en: 'achrefelouafi',
@@ -1132,7 +1132,7 @@ export default [
                 githubUrl: 'https://github.com/achrefelouafi/achrefelouafi',
                 image: HOST + 'images/achrefelouafi.webp',
             },
-            {
+{
                 id: 'GeometryPainterThreeJS',
                 name: 'GeometryPainterThreeJS',
                 name_en: 'GeometryPainterThreeJS',
@@ -1141,7 +1141,7 @@ export default [
                 githubUrl: 'https://github.com/achrefelouafi/GeometryPainterThreeJS',
                 image: HOST + 'images/GeometryPainterThreeJS.webp',
             },
-            {
+{
                 id: 'threeui',
                 name: 'threeui',
                 name_en: 'threeui',
@@ -1158,6 +1158,15 @@ export default [
                 openUrl: 'https://cot.kevinliu.studio/',
                 githubUrl: 'https://github.com/Kevin-Liu-01/Claude-of-Tanks',
                 image: HOST + 'images/Claude-of-Tanks.webp',
+            },
+            {
+                id: 'locker-folio',
+                name: 'locker-folio',
+                name_en: 'locker-folio',
+                author: 'AUTO',
+                openUrl: 'https://locker.zezn.dev/',
+                githubUrl: 'https://github.com/qzz0518/locker-folio',
+                image: HOST + 'images/locker-folio.webp',
             },
         ]
     }
