@@ -1555,6 +1555,24 @@ export default [
                 githubUrl: 'https://github.com/achrefelouafi/AbilityCastingThreeJS',
                 image: HOST + 'images/AbilityCastingThreeJS.jpg',
             },
+            {
+                id: 'tokyoThree3d',
+                name: 'tokyoThree3d',
+                name_en: 'tokyoThree3d',
+                author: 'AUTO',
+                openUrl: 'https://jeantimex.github.io/tokyo/',
+                githubUrl: 'https://github.com/jeantimex/tokyo',
+                image: HOST + 'images/tokyoThree3d.webp',
+            },
+            {
+                id: 'ProceduralBuildingsThreeJS',
+                name: 'ProceduralBuildingsThreeJS',
+                name_en: 'ProceduralBuildingsThreeJS',
+                author: 'AUTO',
+                openUrl: 'https://proceduralbuildings.chirostudio.xyz/',
+                githubUrl: 'https://github.com/achrefelouafi/ProceduralBuildingsThreeJS',
+                image: HOST + 'images/ProceduralBuildingsThreeJS.webp',
+            },
         ]
     }
 ]
